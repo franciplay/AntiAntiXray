@@ -17,6 +17,6 @@ To scan nearby blocks in selected radius, press `G` ingame.
 
 ## NOTE
 
-This is a Fabric only mod (for now) and it requires the Fabric api
+This is a Fabric only mod (for now) and it requires the Fabric api.
 
 
