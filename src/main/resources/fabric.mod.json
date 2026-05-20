@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "antiantixray",
+  "version": "${version}",
+  "environment": "client",
+  "authors": [
+    "ConstantinDev"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.20.1",
+    "java": ">=17"
+  },
+  "entrypoints": {
+    "client": [
+      "me.constantindev.antiantixray.AntiAntiXray"
+    ]
+  },
+  "name": "AntiAntiXray",
+  "description": "Defeats Anti Xray",
+  "contact": {
+    "email": "constantin.chris10@gmail.com",
+    "homepage": "https://constantindev.github.io"
+  },
+  "license": "GPL 2.0",
+  "mixins": [
+    "antiantixray.mixins.json"
+  ]
+}
