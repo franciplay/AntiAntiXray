@@ -10,12 +10,8 @@ For every plugin dev reading this, you basically cant fix this unless you want e
 ## Usage
 To scan nearby blocks in selected radius, press `G` ingame.
 
-To remove a block for testing, creating a ghost block, press `V` ingame.
-
 ## Installing
-1. Download the newest version from build/libs (or click [here](https://github.com/AriliusClient/AntiAntiXray/raw/master/build/libs/AntiAntiXray-1.7.jar))
+1. Download the newest version from the Releases tab
 2. Put it into your mods folder in your fabric installation
-3. Enjoy
+3. Enjoy!
 
-## Commands
-All commands can be viewed using `:aax help`
