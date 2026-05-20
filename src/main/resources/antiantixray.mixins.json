@@ -1,0 +1,7 @@
+{
+  "package": "me.constantindev.antiantixray.Mixins",
+  "client": [
+    "TickMixin",
+    "NetworkHandlerMixin"
+  ]
+}
